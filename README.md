@@ -22,9 +22,9 @@ I don’t just write code — I build things people actually use.
 ---
 
 ### 🧩 Selected Work
-- **Bookmark CE** – Smart bookmark management Chrome extension  
-- **Password Storage Vault** – Secure credential manager (Chrome Extension)  
-- **PRFinder** – AI-powered pull request analysis tool  
+- **Bookmark CE** – Smart bookmark management Chrome extension
+- **SmartApply** – Autofill job forms with just one click
+- **Password Storage Vault** – Secure credential manager
 
 (See pinned repositories below 👇)
 
@@ -45,6 +45,6 @@ Chrome Extensions (Manifest V3) • REST APIs • Auth • Payments
 ---
 
 📫 **Let’s work together**
-- LinkedIn: <your-link>
-- Website / Portfolio: <your-site>
-- Email: <your-email>
+- LinkedIn: <https://www.linkedin.com/in/samanvaya-tripathi-6a985a1b9/>
+- Portfolio: <https://samanvayatripathi.vercel.app/>
+- Email: <tripathisamanvay13@gmail.com>
