@@ -1,50 +1,117 @@
-👋 Hi, I’m Samanvaya Tripathi  
-Full-Stack Web Developer
+## Hi, I'm Samanvaya
 
-I help startups, founders, and businesses turn ideas into reliable, scalable products.
-I don’t just write code — I build things people actually use.
+**Chrome Extensions • Full-Stack Development • AI Workflows**
 
----
+I build **production-grade Chrome extensions and full-stack systems** that automate workflows, integrate AI, and handle real-world complexity.
 
-### 🚀 What I Do
-- Build MVPs and production-ready SaaS products
-- Develop Chrome Extensions (MV3, automation, productivity tools)
-- End-to-end full-stack development
-- Translate business requirements into clean, maintainable systems
+Most projects fail not because of code, but because of **edge cases, scale, and messy real-world behavior**.
+That’s exactly where I focus.
 
 ---
 
-### 🧠 How I Work
-- Product-first mindset (users, scalability, long-term maintainability)
-- Clear communication & realistic timelines
-- Ownership from idea → launch → iteration
+## ⚡ What I Specialize In
+
+**🔹 Chrome Extensions**
+Automation-heavy extensions with deep DOM interaction, cross-site workflows, and scalable architecture
+→ Cross-site automation, complex DOM interactions
+→ Data extraction, scraping, and intelligent data mapping
+→ Manifest V3, service workers, storage, auth
+
+**🔹 AI-Powered Systems**
+LLM integrations that go beyond “chatbots”
+→ Field mapping, semantic matching, workflow automation
+→ OpenAI, Claude, LangChain-based systems
+
+**🔹 Full-Stack Architecture**
+End-to-end systems from frontend → backend → deployment
+→ React / Next.js / Node.js / Python
+→ Supabase, PostgreSQL, SQL
+→ REST APIs, auth, scalable data flows
 
 ---
 
-### 🧩 Selected Work
-- **Bookmark CE** – Smart bookmark management Chrome extension
-- **SmartApply** – Autofill job forms with just one click
-- **Password Storage Vault** – Secure credential manager
+## 🧠 How I Think
 
-(See pinned repositories below 👇)
+I don’t build features. I design systems.
 
----
+Every project I work on is approached with:
 
-### 🛠 Tech Stack
-React • Next.js • Node.js • MongoDB • Supabase  
-Chrome Extensions (Manifest V3) • REST APIs • Auth • Payments
+* how this behaves at scale
+* how this handles edge cases
+* how this evolves over time
+* how cleanly this can be extended
 
----
-
-### 🤝 Available For
-- Startup MVPs
-- SaaS product development
-- Chrome extensions & automation tools
-- Long-term product partnerships
+Because that’s what actually matters in production.
 
 ---
 
-📫 **Let’s work together**
-- LinkedIn: <https://www.linkedin.com/in/samanvaya-tripathi-6a985a1b9/>
-- Portfolio: <https://samanvayatripathi.vercel.app/>
-- Email: <tripathisamanvay13@gmail.com>
+## 🧩 Real Work (Not Just Demos)
+
+**🔹 Bookmark CE**
+AI-powered knowledge system across any webpage
+→ Save, tag, retrieve, summarize content with contextual relevance
+→ Learn concepts, improve memorization, test your knowledge with a quiz
+→ Take control of your knowledge bank
+
+**🔹 SmartApply**
+Autofill system for job applications across Greenhouse, Lever, Workday
+→ Handles dynamic forms, inconsistent field naming, and complex mapping
+→ Exploring AI-based matching along with rule-based logic
+
+**🔹 Password Storage Vault**
+Secure Chrome extension for credential management
+→ Structured storage, generator, and controlled data handling
+
+---
+
+## ⚙️ Technical Depth
+
+**Frontend**
+React • Next.js • TypeScript • UI/UX systems
+
+**Backend**
+Node.js • Python • Supabase • PostgreSQL • MongoDB
+
+**Extensions**
+Manifest V3 • Content scripts • Background/service workers
+DOM parsing • automation • cross-site execution
+
+**AI Layer**
+OpenAI • Claude • Gemini • LangChain
+semantic mapping • retrieval • workflow intelligence
+
+**Infra**
+AWS • GCP • Docker • Github Actions
+
+---
+
+## 🏆 What Sets Me Apart
+
+Most developers can build features.
+Very few can handle **messy, real-world systems**.
+
+That’s where I operate.
+
+* Complex DOM environments
+* Unstructured data
+* Cross-platform workflows
+* AI + product integration
+
+---
+
+## 🤝 If You’re Building Something Serious
+
+I work best with:
+
+* founders building automation-heavy tools
+* startups building SaaS products
+* teams needing reliable Chrome extension systems
+* products where AI is actually part of the workflow
+
+---
+
+## 📫 Reach Out
+
+LinkedIn: [https://www.linkedin.com/in/samanvaya-tripathi-6a985a1b9/](https://www.linkedin.com/in/samanvaya-tripathi-6a985a1b9/)
+Portfolio: [https://samanvayatripathi.vercel.app/](https://samanvayatripathi.vercel.app/)
+Email: [tripathisamanvay13@gmail.com](mailto:tripathisamanvay13@gmail.com)
